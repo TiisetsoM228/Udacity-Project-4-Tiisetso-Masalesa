@@ -23,7 +23,6 @@ For a comprehensive explanation of the project, including visualizations, analys
 |   |-- thyroid_cancer_risk_data.csv
 |-- notebooks/                  # Folder for Jupyter Notebook(s)
 |   |-- Thyroid_Cancer_Risk.ipynb
-|-- src/                        # Source code (optional for pipeline scripts)
 |-- README.md                   # Project Overview
 |-- requirements.txt            # Python Environment Requirements
 ```
